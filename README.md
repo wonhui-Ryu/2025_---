@@ -1,4 +1,4 @@
-This is my awesome Next.js project! 🚀  
+20250327 유원희 프론트 스터디  
 It was created using [`create-next-app`](https://nextjs.org/docs/api-reference/cli/create-next-app).
 
 ## Getting Started
