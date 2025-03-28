@@ -1,5 +1,5 @@
 ## 03-27 유원희
-안녕하세요~~~
+되는건가.. 
 
 It was created using [`create-next-app`](https://nextjs.org/docs/api-reference/cli/create-next-app).
 
