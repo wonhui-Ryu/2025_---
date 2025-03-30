@@ -1,5 +1,5 @@
 ## 03-27 유원희
-되는건가.. 
+프론트엔드 스터디
 
 It was created using [`create-next-app`](https://nextjs.org/docs/api-reference/cli/create-next-app).
 
