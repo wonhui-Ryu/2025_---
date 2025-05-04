@@ -1,4 +1,5 @@
 import Header from '@/app/components/Header';
+import Button from '@/app/components/Button';
 
 export default function AboutPage() {
   return (
@@ -7,12 +8,9 @@ export default function AboutPage() {
       <p>저를 소개합니다...</p>
       <p>안녕하세요</p>
       <p>유원희</p>
-      <p>입니다
-      </p>
+      <p>입니다</p>
+      
     </>
   );
+  
 }
-
-
-
-
